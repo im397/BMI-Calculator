@@ -20,6 +20,3 @@ def test_bmiCategory():
 
     assert bmiCategory(29.9) == "Overweight"
     assert bmiCategory(30) == "Obese"
-
-
-
