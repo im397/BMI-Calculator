@@ -45,4 +45,5 @@ def main():
     print("Your BMI: ", bmi, "\n", category)
 
     
+    input("Press any key to exit")
 main()
